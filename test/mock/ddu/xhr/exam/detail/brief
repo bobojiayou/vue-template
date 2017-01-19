@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "error_code": "error_code",
+    "error_msg": "error_msg",
+    "result": {
+            "exam_name":"2015年第二学期高一期末考试-数学",
+            "exam_date": 1476671407615,
+            "subject": "数学",
+            "total_avg": 65.12,
+            "class_avg": 67.32,
+            "class_rank": 5,
+            "full_score": 150,
+            "class_rank_change": 3
+    }
+}

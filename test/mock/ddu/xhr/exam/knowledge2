@@ -1,0 +1,121 @@
+{
+    "code": 200,
+    "error_code": "error_code",
+    "error_msg": "error_msg",
+    "result": [
+        {
+            "knowledge_id": 11,
+            "knowledge_rank": 93,
+            "knowledge_con": "函数",
+            "data": [
+                {
+                    "knowledge_id": 21,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "了解图像的性质和要素",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.35
+                },
+                {
+                    "knowledge_id": 22,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "求函数的定义域和值域",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.65
+                },
+                {
+                    "knowledge_id": 23,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "映射的概念",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.85
+                },
+                {
+                    "knowledge_id": 24,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "图像列表解析法",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.55
+                },
+                {
+                    "knowledge_id": 25,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "了解并运用简单的分段",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.95
+                }
+            ]
+        },
+        {
+            "knowledge_id": 11,
+            "knowledge_rank": 93,
+            "knowledge_con": "函数",
+            "data": [
+                {
+                    "knowledge_id": 21,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "了解图像的性质和要素",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.35
+                },
+                {
+                    "knowledge_id": 22,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "求函数的定义域和值域",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.65
+                },
+                {
+                    "knowledge_id": 23,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "映射的概念",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.85
+                },
+                {
+                    "knowledge_id": 24,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "图像列表解析法",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.55
+                },
+                {
+                    "knowledge_id": 25,
+                    "knowledge_rank": 93,
+                    "knowledge_con": "了解并运用简单的分段",
+                    "question_num": 345,
+                    "score_sum": 13,
+                    "class_score_rate": 3,
+                    "total_score_rate": 55,
+                    "mastery": 0.95
+                }
+            ]
+        }
+    ]
+}

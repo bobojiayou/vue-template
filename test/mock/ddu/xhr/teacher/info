@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "error_code": "error_code",
+    "error_msg": "error_msg",
+    "result": {
+        "teacher_name": "王老师",
+        "class_info": [
+            { "class_id": "classId1111", "class_name": "高一（2）班", "subject": "数学" },
+            { "class_id": "classId2222", "class_name": "高一（3）班", "subject": "数学" }
+        ]
+    }
+}

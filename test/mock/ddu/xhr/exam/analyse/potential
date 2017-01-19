@@ -1,0 +1,123 @@
+{
+    "code": 200,
+    "error_code": null,
+    "error_msg": null,
+    "result": {
+        "currentPage": 0,
+        "data": [
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 103,
+                "student_id": "320170117",
+                "student_name": "李啸",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 84,
+                "student_id": "320170125",
+                "student_name": "盛家辉",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 88,
+                "student_id": "320170101",
+                "student_name": "胡佳萍",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 91,
+                "student_id": "320170107",
+                "student_name": "华娄丹",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 105,
+                "student_id": "320170116",
+                "student_name": "屠炜男",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 84,
+                "student_id": "320170106",
+                "student_name": "吕朱颖",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 104,
+                "student_id": "320170123",
+                "student_name": "周勤铧",
+                "total_rank": null,
+                "type": 1
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 106,
+                "student_id": "320170115",
+                "student_name": "严宸",
+                "total_rank": null,
+                "type": 3
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 111,
+                "student_id": "320170119",
+                "student_name": "王轶伦",
+                "total_rank": null,
+                "type": 3
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 111,
+                "student_id": "320170110",
+                "student_name": "赵佳燕",
+                "total_rank": null,
+                "type": 3
+            },
+            {
+                "change": null,
+                "class_rank": 0,
+                "order_type": 0,
+                "score": 130,
+                "student_id": "320170113",
+                "student_name": "蒋潇航",
+                "total_rank": null,
+                "type": 2
+            }
+        ],
+        "offset": 0,
+        "size": 11,
+        "totalPage": 1
+    }
+}

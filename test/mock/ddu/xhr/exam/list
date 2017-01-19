@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "error_code": "error_code",
+    "error_msg": "error_msg",
+    "result": {
+        "size": 5,
+        "offset": 6,
+        "current_page": 1,
+        "total_page": 10,
+        "data": [
+            { "exam_id": "kaoshiId1" },
+            { "exam_id": "kaoshiId2" }
+        ]
+    }
+}

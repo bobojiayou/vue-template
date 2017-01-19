@@ -1,0 +1,39 @@
+{
+    "code": 200,
+    "error_code": "error_code",
+    "error_msg": "error_msg",
+    "result": [{
+            "class_id":"classId1111",
+            "class_name": "三年一班",
+            "class_avg": "67",
+            "teacher_id": "yang",
+            "teacher_name": "杨老师"
+        },
+        {
+            "class_id":"classId2222",
+            "class_name": "三年二班",
+            "class_avg": "97",
+            "teacher_id": "yin",
+            "teacher_name": "尹老师"
+        },
+        {
+            "class_id":"33",
+            "class_name": "三年三班",
+            "class_avg": "67",
+            "teacher_id": "zhong",
+            "teacher_name": "中老师"
+        },
+        {
+            "class_id":"222",
+            "class_name": "三年四班",
+            "class_avg": "87",
+            "teacher_id": "er",
+            "teacher_name": "二老师"
+        },{
+            "class_id":"222",
+            "class_name": "三年五班",
+            "class_avg": "77",
+            "teacher_id": "chen",
+            "teacher_name": "陈老师"
+        }]
+}
